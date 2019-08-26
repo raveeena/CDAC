@@ -1,3 +1,9 @@
 CREATE TABLE meow (id int , name varchar, age int salary ibt);
 select * from meow;
-INSERT INTO  meow values ()
+INSERT INTO  meow values (1, 'raveena', 21, 80000 );
+INSERT INTO  meow values (2 , 'dhoni, 34, 800000 );
+INSERT INTO  meow values (3, 'virat', 24, 70000 );
+INSERT INTO  meow values (4, 'kuldeep', 22, 70700 );
+UPDATE Information SET age = '20' WHERE name = raveena;
+show tables;
+ALTER TABLE meow DROP COLUMN salary;
