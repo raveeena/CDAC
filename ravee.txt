@@ -1,1 +1,3 @@
-delete from meow where name = "dhoni";
+CREATE TABLE meow (id int , name varchar, age int salary ibt);
+select * from meow;
+INSERT INTO  meow values ()
