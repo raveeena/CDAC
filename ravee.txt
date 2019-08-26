@@ -1,0 +1,1 @@
+delete from meow where name = "dhoni";
